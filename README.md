@@ -171,4 +171,4 @@ MIT License — see `LICENSE`.
 ## Contact
 
 Souad Taleb Zouggar — talebzouggar.souad@univ-oran2.dz
-Department of Computer Science, University of Oran 2, Algeria
+Department of Economic Science, University of Oran 2, Algeria
